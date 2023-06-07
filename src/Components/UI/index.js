@@ -44,7 +44,7 @@ export const Detalle = styled.span`
     font-size: 24px;
 `;
 
-export const btnTema = styled.div`
+export const BtnTema = styled.div`
   position: absolute;
   top: 4vh;
   right: 20px;
